@@ -9,3 +9,6 @@ Authentication
 
 Getting DATA
 ![Getting DATA](https://user-images.githubusercontent.com/110732676/208319880-ee0c641b-bdaf-4106-9f52-799334a49f81.png)
+
+TOKEN
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzOWY3ZWZkMjA3NTk0MWIwMGU0N2E4MCIsInVzZXJuYW1lIjoiYWxleHRlc3Rpcm92c2hpayIsImV4cCI6MTY3NjU4MTE0MCwiaWF0IjoxNjcxMzk3MTQwfQ.dUQCKOTDYIMMNSrUYHqyORS3Ha-oou5fnkO__Kr9WOI
